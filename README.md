@@ -1,7 +1,9 @@
 PyCharm keyboard shortcuts
 ==========================
 
-Since I'm using PyCharm quite a lot these days, I've noticed some issues with PyCharms sync-settings functionality, I want a place to document the shortcuts I've added or just use a lot. I base my shortcuts on the 'Sublime Text' keymap.
+Since I'm using PyCharm quite a lot these days, and I've noticed some issues with PyCharms sync-settings functionality, I want to document the shortcuts I've added or just use a lot so I can re-create them when syncing bugs out.
+
+I base my shortcuts on the 'Sublime Text' keymap.
 
 
 Favorites - general
