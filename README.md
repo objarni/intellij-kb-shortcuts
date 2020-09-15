@@ -27,6 +27,7 @@ Favorites - edit and refactor
  * Ctrl + Shift + D = Duplicate current row.
  * Ctrl + Shift + Up/Down = Move line (or selection) up/down.
  * Ctrl + J = Snippet menu. Basically using this for `if __name__ == '__main__':` only :)
+ * Shift + Alt + mouse drag = Block select
 
 
 Custom shortcuts
