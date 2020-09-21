@@ -36,9 +36,9 @@ Custom shortcuts
 Some things are just missing shortcuts for my workflow, so I've come up with my own:
  * Ctrl + O = File -> Open (duh! This is the first editor/IDE/desktop software that has lacked open kb shortcut since I started using software in the 80's... very surprising!)
  * Ctrl + Alt + Shift + W = Close other editor windows (when browsing lots of code this is handy for focusing on one of them)
- * Ctrl + Shift + S = Run with coverage. Using this a lot when doing approval testing
+ * Ctrl + Shift + S = Save As
  * Ctrl + K = Commit window
  * Ctrl + Shift K = Push window
 
-
+Not assigned yet: Run with coverage. Using this a lot when doing approval testing
 
