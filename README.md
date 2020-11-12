@@ -43,8 +43,8 @@ Some things are just missing shortcuts for my workflow, so I've come up with my 
 
 Custom shortcuts - debugger
 ---------------------------
- * F5 = Step Over
- * Shift + F5 = Step Into
+ * F5 = Step Into
+ * Shift + F5 = Step Over
  * Shift + Alt + F5 = Stop Out Of
 
 Not assigned yet: Run with coverage. Using this a lot when doing approval testing
