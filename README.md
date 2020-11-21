@@ -82,9 +82,8 @@ Some things are just missing shortcuts for my workflow, so I've come up with my 
 |                                | handy for focusing on one of them)          |
 |               Ctrl + Shift + S | Save As                                     |
 |                       Ctrl + K | Commit window                               |
-|                 Ctrl + Shift K | Push window                                 |
+|               Ctrl + Shift + K | Push window                                 |
 |                       Ctrl + T | Update project                              |
-|                                |                                             |
 
 
 Not assigned yet: Run with coverage. Using this a lot when doing approval testing
