@@ -15,6 +15,7 @@ Favorites - general
  * Ctrl + L = Increase selection by surrounding cursor or previous selection in closest natural 'delimiter scope'
  * Ctrl + Alt + S = Settings. Especially useful when fiddling with .venv and such
  * Ctrl + PgUp/PgDown = Switch to left/right editor tab.
+ * Escape = Focus editor window (whenever any other window has focus)
  * Alt + 1 = Focus project window (bring it up if it's closed)
  * Alt + 4 = Focus Run Window (handy with programs using input(..))
  * Alt + 2,2 = Bring up and hide Favorites window, basically giving focus to editor window. To get back from project or run window quickly!
