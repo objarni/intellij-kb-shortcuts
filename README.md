@@ -1,7 +1,7 @@
-PyCharm keyboard shortcuts
-==========================
+IntelliJ keyboard shortcuts
+===========================
 
-Since I'm using PyCharm quite a lot these days, and I've noticed some issues with PyCharms sync-settings functionality, I want to document the shortcuts I've added or just use a lot so I can re-create them when syncing bugs out.
+Since I'm using __IntelliJ__ based IDEs quite a lot these days, and I've noticed some issues with sync-settings functionality, I want to document the shortcuts I've added or just use a lot so I can re-create them when syncing bugs out.
 
 I base my shortcuts on the 'Sublime Text' keymap.
 
@@ -31,6 +31,13 @@ Favorites - edit and refactor
  * Ctrl + \[ or \] = Unindent or indent selection
 
 
+Custom shortcuts - debugger
+---------------------------
+ * F5 = Step Into
+ * Shift + F5 = Step Over
+ * Shift + Alt + F5 = Stop Out Of
+
+
 Custom shortcuts
 ----------------
 Some things are just missing shortcuts for my workflow, so I've come up with my own:
@@ -41,11 +48,6 @@ Some things are just missing shortcuts for my workflow, so I've come up with my 
  * Ctrl + Shift K = Push window
  * Ctrl + T = Update project
 
-Custom shortcuts - debugger
----------------------------
- * F5 = Step Into
- * Shift + F5 = Step Over
- * Shift + Alt + F5 = Stop Out Of
 
 Not assigned yet: Run with coverage. Using this a lot when doing approval testing
 
