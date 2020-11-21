@@ -1,7 +1,7 @@
 IntelliJ keyboard shortcuts
 ===========================
 
-Since I'm using __IntelliJ__ based IDEs quite a lot these days, and I've noticed some issues with sync-settings functionality, I want to document the shortcuts I've added or just use a lot so I can re-create them when syncing bugs out.
+Since I'm using __IntelliJ__ based IDEs (such as PyCharm) quite a lot these days, and I've noticed some issues with sync-settings functionality, I want to document the shortcuts I've added or just use a lot so I can re-create them when syncing bugs out.
 
 I base my shortcuts on the 'Sublime Text' keymap.
 
