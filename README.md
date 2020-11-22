@@ -29,6 +29,7 @@ Favorites - general
 |                 Ctrl + Alt + S | Settings. Especially useful                 |
 |                                | when fiddling with .venv and such           |
 |             Ctrl + PgUp/PgDown | Switch to left/right editor tab.            |
+|             Ctrl + Shift + T   | Reveal edited file in project tree          |
 |                         Escape | Focus editor window (whenever any other     |
 |                                | window has focus)                           |
 |                        Alt + 1 | Focus project window (bring it up if        |
