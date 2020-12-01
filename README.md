@@ -79,6 +79,7 @@ Some things are just missing shortcuts for my workflow, so I've come up with my 
 |                                | lacked open kb shortcut since I started     |
 |                                | using software in the 80's... very          |
 |                                | surprising!)                                |
+|                 Ctrl + Alt + W | Collapse all definitions                    |
 |               Ctrl + Shift + W | Close all editor windows                    |
 |         Ctrl + Alt + Shift + W | Close other editor windows                  |
 |                                | (when browsing lots of code this is         |
