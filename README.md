@@ -66,6 +66,7 @@ Custom shortcuts - debugger
 |                     Shift + F5 | Step Over                                   |
 |               Shift + Alt + F5 | Stop Out Of                                 |
 
+
 Custom shortcuts
 ----------------
 Some things are just missing shortcuts for my workflow, so I've come up with my own:
@@ -78,6 +79,7 @@ Some things are just missing shortcuts for my workflow, so I've come up with my 
 |                                | lacked open kb shortcut since I started     |
 |                                | using software in the 80's... very          |
 |                                | surprising!)                                |
+|               Ctrl + Shift + W | Close all editor windows                    |
 |         Ctrl + Alt + Shift + W | Close other editor windows                  |
 |                                | (when browsing lots of code this is         |
 |                                | handy for focusing on one of them)          |
