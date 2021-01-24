@@ -88,6 +88,7 @@ Some things are just missing shortcuts for my workflow, so I've come up with my 
 |                       Ctrl + K | Commit window                               |
 |               Ctrl + Shift + K | Push window                                 |
 |                       Ctrl + T | Update project                              |
+|               Ctrl + Shift + E | Go to next error in file                    |
 
 
 Not assigned yet: Run with coverage. Using this a lot when doing approval testing
