@@ -1,9 +1,12 @@
 IntelliJ keyboard shortcuts
 ===========================
 
-Since I'm using __IntelliJ__ based IDEs (such as PyCharm) quite a lot these days, and I've noticed some issues with sync-settings functionality, I want to document the shortcuts I've added or just use a lot so I can re-create them when syncing bugs out.
+Since I'm using __IntelliJ__ based IDEs (such as PyCharm) quite a lot these days, and I've noticed
+some issues with sync-settings functionality, I want to document the shortcuts I've added or just
+use a lot so I can re-create them when syncing bugs out.
 
-I base my shortcuts on the 'Sublime Text' keymap.
+I'm in the process of learning IDEA defaults instead of my finger-memory of Sublime Text kb shortcuts;
+it's painful but I think it's worth it as I work so much in IDEA based IDEs nowadays!
 
 
 Favorites - general
@@ -18,9 +21,8 @@ Favorites - general
 |                                | shortcut is used for something              |
 |                                | (also displays kb shortcut to the right     |
 |                                | of each option so learning builtin here)    |
-|                       Ctrl + D | Select next occurance. This is similar to   |
-|                                | Sublime Text's Ctrl + D                     |
-|                       Alt + F3 | Select all occurances. Possibly more        |
+|                        Alt + J | Select next occurance.                      |
+|         Ctrl + Shift + Alt + J | Select all occurances. Possibly more        |
 |                                | Python-aware than ST's Alt + F3             |
 |                       Ctrl + W | Close current window                        |
 |                       Ctrl + L | Increase selection by surrounding           |
@@ -80,7 +82,6 @@ Some things are just missing shortcuts for my workflow, so I've come up with my 
 |                                | using software in the 80's... very          |
 |                                | surprising!)                                |
 |                 Ctrl + Alt + W | Collapse all definitions                    |
-|               Ctrl + Shift + W | Close all editor windows                    |
 |         Ctrl + Alt + Shift + W | Close other editor windows                  |
 |                                | (when browsing lots of code this is         |
 |                                | handy for focusing on one of them)          |
